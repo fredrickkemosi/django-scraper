@@ -1,4 +1,4 @@
 .DS_Store
 jobs/__pycache__
 scraping/__pycache__
-requirements.txt
+# requirements.txt
